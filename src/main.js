@@ -4,6 +4,11 @@ import vuetify from './plugins/vuetify'
 
 Vue.config.productionTip = false
 
+/**
+ * Set title
+ */
+document.title = 'Text tags'
+
 new Vue({
   vuetify,
   render: h => h(App)

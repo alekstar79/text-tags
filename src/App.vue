@@ -15,14 +15,9 @@
           contain
         />
 
-        <v-img
-          alt="Vuetify Name"
-          class="shrink mt-1 hidden-sm-and-down"
-          :src="require('./assets/vuetify-name-dark.png')"
-          min-width="100"
-          width="100"
-          contain
-        />
+        <h2 class="headline font-weight-bold hidden-sm-and-down">
+          Технезис - тестовое задание
+        </h2>
       </div>
     </v-app-bar>
 
