@@ -10,6 +10,8 @@
         />
       </v-col>
 
+      <v-icon>mdi-circle-small</v-icon>
+
       <v-col class="mb-4">
         <h1 class="display-2 font-weight-bold mb-3">
           Welcome to Vuetify
@@ -84,7 +86,7 @@
 
 <script>
   export default {
-    name: 'HelloWorld',
+    name: 'HomePage',
 
     data: () => ({
       ecosystem: [
