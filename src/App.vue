@@ -9,7 +9,7 @@
         <v-img
           alt="Vuetify Logo"
           class="shrink mr-2"
-          :src="require('./assets/vuetify-logo-dark.png')"
+          :src="require('./assets/logo.svg')"
           transition="scale-transition"
           width="40"
           contain
@@ -28,17 +28,13 @@
 </template>
 
 <script>
-import HomePage from './pages/HomePage';
+import HomePage from '@/pages/HomePage'
 
 export default {
   name: 'App',
 
   components: {
-    HomePage,
-  },
-
-  data: () => ({
-    //
-  }),
-};
+    HomePage
+  }
+}
 </script>
