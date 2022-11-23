@@ -1,4 +1,4 @@
-# text-tags
+# Vue component: Text tags
 
 ## Project setup
 ```
