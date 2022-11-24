@@ -16,7 +16,7 @@
         />
 
         <h2 class="headline font-weight-bold hidden-sm-and-down">
-          Технезис - тестовое задание
+          Текстовые теги
         </h2>
       </div>
     </v-app-bar>
